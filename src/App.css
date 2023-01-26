@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  color:blueviolet;
+}
+
+.Juan {
+  text-align: center;
+  color: coral;
+}
+
+.Mascota {
+  text-align: center;
+  color: rgb(246, 80, 255);
 }
 
 .App-logo {
